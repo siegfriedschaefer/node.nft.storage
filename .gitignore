@@ -1,0 +1,24 @@
+
+# assets
+*.glb
+*.png
+
+# API keys and secrets
+.env
+.secrets
+
+# Dependency directory
+node_modules
+
+# Editors
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+src
+*.js
+
+# ignore yarn.lock
+package-lock.json
